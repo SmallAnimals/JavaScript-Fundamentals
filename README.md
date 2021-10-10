@@ -1,0 +1,1 @@
+Odin Project - reviewing the Fundamentals of JavaScript.
